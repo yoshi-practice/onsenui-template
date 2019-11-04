@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joshi-ana/html.git"
+    "url": "git+https://github.com/yoshi1125hisa/onsenui-template.git"
   },
   "author": "joshi-ana",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joshi-ana/html/issues"
+    "url": "https://github.com/yoshi1125hisa/onsenui-template/issues"
   },
-  "homepage": "https://github.com/joshi-ana/html#readme",
+  "homepage": "https://github.com/yoshi1125hisa/onsenui-template#readme",
   "devDependencies": {
     "@babel/core": "7.6.2",
     "@babel/preset-env": "7.6.2",
